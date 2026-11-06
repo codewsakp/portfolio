@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio! This repository contains the source code for my portfolio website, where I showcase my technical skills, projects, academic background, achievements and certifications.
 
-🌐 **Live Portfolio:** [Visit My Portfolio](YOUR_VERCEL_PORTFOLIO_LINK)
+🌐 **Live Portfolio:** https://portfolio-sakshipatil.vercel.app/
 
 ## 👩‍💻 About Me
 
