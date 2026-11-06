@@ -67,10 +67,10 @@ export default function Hero() {
             <img
               src={profile.photo}
               alt={profile.photoAlt}
-              width="170"
-              height="170"
+              width="200"
+              height="200"
               fetchpriority="high"
-              className="h-32 w-32 rounded-full border-4 border-navy-900 object-cover object-top sm:h-40 sm:w-40 md:h-[170px] md:w-[170px]"
+              className="h-32 w-32 rounded-full border-4 border-navy-900 object-cover object-top sm:h-40 sm:w-40 md:h-[210px] md:w-[210px]"
             />
           </div>
           <p className="mt-4 flex items-center gap-1.5 text-xs text-ink-muted">
